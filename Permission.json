@@ -1,0 +1,12 @@
+{
+    "PlayerPermission": {
+        "KAKASHIHATAKI2x": { "Tier": 2000 },
+        "Wolf08077": { "Tier": 1000 },
+        "tuhfst": { "Tier": 100 }
+    },
+    "CharacterTier": {
+        "Gojo": { "Tier": 1, "Permission": [] }, 
+        "Itadori": { "Tier": 1, "Permission": [] },
+        "Sukuna": { "Tier": 10, "Permission": [] }
+    }
+}
